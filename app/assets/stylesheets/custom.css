@@ -1,0 +1,38 @@
+body{
+  background-color: #b3d9ff;
+}
+#Personal-information{
+  background-color: #cc99ff;
+}
+#profile{
+  background-color: #cc99ff;
+}
+#picture{
+  background-color: #cc99ff;
+}
+#Education{
+  background-color: #cc99ff;
+}
+#Employment{
+  background-color: #cc99ff;
+}
+#Professional-Skills-and-Knowledge-Area{
+  background-color: #cc99ff;
+}
+#Personal-skills{
+  background-color: #cc99ff;
+}
+#photos{
+  background-color: #cc99ff;
+}
+div{
+  border: 1px solid blue
+}
+.col-lg-12{
+  background-color:#ffccff
+}
+.salam{
+  display: block;
+      margin-left: auto;
+      margin-right: auto
+ }
